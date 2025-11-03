@@ -80,8 +80,9 @@ Purpose: Introduces Kotlin collections (ArrayList) and shows how to perform sear
 Description: Defines a Car class with properties (type, model, price, owner, miles driven) and functions to calculate/display car details.
 
 Purpose: Explains object-oriented programming (OOP) in Kotlin including classes, constructors, and member functions.
+
 <img width="617" height="451" alt="image" src="https://github.com/user-attachments/assets/dc2243e1-c0b7-42d4-a5c6-c0754391bd39" />
- <img width="437" height="460" alt="image" src="https://github.com/user-attachments/assets/8c2ae998-6b44-4912-89be-eb21eb242db8" />
+<img width="437" height="460" alt="image" src="https://github.com/user-attachments/assets/8c2ae998-6b44-4912-89be-eb21eb242db8" />
 
 
 1_11. Operator Overloading and Matrix Operations: Explain operator overloading and implement matrix addition, subtraction, and multiplication using a "Matrix" class. Overload the toString() function in the "Matrix" class for customized output.
